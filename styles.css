@@ -18,6 +18,7 @@ body{
     text-align: center;
 }
 .search{
+    margin-top: 20px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -87,4 +88,9 @@ body{
     font-size: 20px;
     margin-top: 10px;
     display: none;
+}
+.namee{
+    margin-top: -25px;
+    font-size: 32px;
+    font-weight: bold;
 }
